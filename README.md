@@ -108,6 +108,12 @@ streamlit run app.py
 
 
 ---
+
+---
+
+## 
+
+```md
 ## **📊 Output**
 
 - Predicted mobile price category  
@@ -126,34 +132,5 @@ This project is suitable for:
 It clearly demonstrates the **complete machine learning workflow** from  
 **data preprocessing → model training → prediction → visualization**.
 
-
-## **🔧 Customization**
-
-You can modify:
-- Machine learning model selection  
-- Feature inputs from the sidebar  
-- Dataset used for training and testing  
-- Visualization components (charts, probabilities)  
-
-
-## **🚀 Future Enhancements**
-
-- Model accuracy comparison  
-- Feature importance visualization  
-- Confusion matrix and performance metrics  
-- Online deployment using Streamlit Cloud  
-- Authentication-based dashboard  
-
-
-## **📜 License**
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this project for educational purposes.
-
-
-## **👩‍💻 Author**
-
-**Geethanjali M**  
-B.E Student | Machine Learning Enthusiast  
 
 
