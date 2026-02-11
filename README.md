@@ -108,15 +108,14 @@ streamlit run app.py
 
 
 ---
-
-## 📊 Output
+## **📊 Output**
 
 - Predicted mobile price category  
 - Confidence score visualization using probability chart  
 - User-selected machine learning model results  
 
 
-## 🎓 Academic Use
+## **🎓 Academic Use**
 
 This project is suitable for:
 - B.E Mini Project  
@@ -128,7 +127,7 @@ It clearly demonstrates the **complete machine learning workflow** from
 **data preprocessing → model training → prediction → visualization**.
 
 
-## 🔧 Customization
+## **🔧 Customization**
 
 You can modify:
 - Machine learning model selection  
@@ -137,7 +136,7 @@ You can modify:
 - Visualization components (charts, probabilities)  
 
 
-## 🚀 Future Enhancements
+## **🚀 Future Enhancements**
 
 - Model accuracy comparison  
 - Feature importance visualization  
@@ -146,14 +145,15 @@ You can modify:
 - Authentication-based dashboard  
 
 
-## 📜 License
+## **📜 License**
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project for educational purposes.
 
 
-## 👩‍💻 Author
+## **👩‍💻 Author**
 
 **Geethanjali M**  
 B.E Student | Machine Learning Enthusiast  
+
 
