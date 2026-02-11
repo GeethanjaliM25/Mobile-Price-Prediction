@@ -105,3 +105,13 @@ pip install streamlit pandas numpy scikit-learn matplotlib
 Run the Streamlit application:
 
 streamlit run app.py
+
+
+---
+📊 Output
+
+Predicted mobile price category
+
+Confidence score visualization using probability chart
+
+User-selected machine learning model results
