@@ -93,7 +93,7 @@ Users can dynamically switch between models from the UI.
 
 ---
 
-🚀 Steps to Run the Project
+##🚀 Steps to Run the Project
 
 1. Install the required libraries:
 
@@ -106,16 +106,16 @@ streamlit run app.py
 
 
 Ensure that Mobile_data.csv is present in the same directory as app.py.
-
-📊 Output
+----
+##📊 Output
 
 Predicted mobile price category
 
 Confidence score visualization using probability chart
 
 User-selected machine learning model results
-
-🎓 Academic Use
+----
+##🎓 Academic Use
 
 This project is suitable for:
 
@@ -128,4 +128,4 @@ Machine Learning Lab
 Streamlit Dashboard Demonstration
 
 It clearly demonstrates the complete machine learning workflow from
-data preprocessing → model training → prediction → visualization.
+data preprocessing → model training → prediction 
