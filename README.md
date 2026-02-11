@@ -107,15 +107,15 @@ streamlit run app.py
 
 Ensure that Mobile_data.csv is present in the same directory as app.py.
 
-##📊 Output
+📊 Output
 
 Predicted mobile price category
 
 Confidence score visualization using probability chart
 
 User-selected machine learning model results
-----
-##🎓 Academic Use
+
+🎓 Academic Use
 
 This project is suitable for:
 
