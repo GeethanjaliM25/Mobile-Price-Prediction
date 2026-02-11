@@ -95,12 +95,12 @@ Users can dynamically switch between models from the UI.
 
 🚀 Steps to Run the Project
 
-Install the required libraries:
+1. Install the required libraries:
 
 pip install streamlit pandas numpy scikit-learn matplotlib
 
 
-Run the Streamlit application:
+2. Run the Streamlit application:
 
 streamlit run app.py
 
@@ -129,5 +129,3 @@ Streamlit Dashboard Demonstration
 
 It clearly demonstrates the complete machine learning workflow from
 data preprocessing → model training → prediction → visualization.
-
-
