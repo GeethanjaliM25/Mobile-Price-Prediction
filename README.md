@@ -108,10 +108,19 @@ streamlit run app.py
 
 
 ---
-📊 Output
+## 📊 Output
 
-Predicted mobile price category
+- Predicted mobile price category  
+- Confidence score visualization using probability chart  
+- User-selected machine learning model results  
+---
+## 🎓 Academic Use
 
-Confidence score visualization using probability chart
+This project is suitable for:
+- B.E Mini Project  
+- B.E Major Project  
+- Machine Learning Lab  
+- Streamlit Dashboard Demonstration  
 
-User-selected machine learning model results
+It clearly demonstrates the complete machine learning workflow from **data preprocessing → model training → prediction → visualization**.
+
