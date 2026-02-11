@@ -93,7 +93,7 @@ Users can dynamically switch between models from the UI.
 
 ---
 
-##🚀 Steps to Run the Project
+🚀 Steps to Run the Project
 
 1. Install the required libraries:
 
@@ -106,7 +106,7 @@ streamlit run app.py
 
 
 Ensure that Mobile_data.csv is present in the same directory as app.py.
-----
+
 ##📊 Output
 
 Predicted mobile price category
@@ -129,3 +129,7 @@ Streamlit Dashboard Demonstration
 
 It clearly demonstrates the complete machine learning workflow from
 data preprocessing → model training → prediction 
+
+
+AUTHOR
+Geethanjali M | B.E (AI) 👩‍💻
