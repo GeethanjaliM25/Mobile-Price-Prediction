@@ -93,53 +93,15 @@ Users can dynamically switch between models from the UI.
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 Steps to Run the Project
 
-### Step 1: Clone the Repository
+1. Clone the repository and move into the project folder:
 ```bash
 git clone https://github.com/your-username/mobile-price-prediction.git
 cd mobile-price-prediction
-Step 2: Install Required Libraries
+Install the required libraries:
+
 pip install streamlit pandas numpy scikit-learn matplotlib
-Step 3: Run the Application
+Run the Streamlit application:
+
 streamlit run app.py
-Make sure the dataset file Mobile_data.csv is located in the same directory as app.py.
-
-📊 Output
-Predicted mobile price category
-
-Confidence score visualization using probability chart
-
-User-selected machine learning model results
-
-🎓 Academic Use
-This project is suitable for:
-
-B.E Mini Project
-
-B.E Major Project
-
-Machine Learning Lab
-
-Streamlit Dashboard Demonstration
-
-It clearly demonstrates the complete machine learning workflow from data preprocessing → model training → prediction → visualization.
-
-🔮 Future Enhancements
-Model accuracy comparison
-
-Feature importance visualization
-
-Confusion matrix and evaluation metrics
-
-Online deployment using Streamlit Cloud
-
-Authentication-based dashboard
-
-👩‍💻 Author
-Geethanjali M
-B.E Student | Machine Learning Enthusiast
-
-📜 License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project for educational purposes.
