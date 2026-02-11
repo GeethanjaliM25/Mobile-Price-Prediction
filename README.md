@@ -1,0 +1,141 @@
+# 📱 Mobile Price Prediction using Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-green?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 📌 Project Overview
+
+The **Mobile Price Prediction App** is a Machine Learning–based web application that predicts the **price category of a mobile phone** based on its hardware specifications.  
+The application classifies mobiles into four categories:
+
+- 📉 Low Cost  
+- 💰 Medium Cost  
+- 💎 High Cost  
+- 👑 Very High Cost  
+
+The system is built using **Python, Scikit-Learn, and Streamlit**, providing an interactive interface for real-time predictions along with **probability confidence visualization**.
+
+---
+
+## 🎯 Problem Statement
+
+Given various mobile specifications such as battery power, RAM, camera quality, screen size, and processor details, the goal is to **predict the mobile phone price range** accurately using Machine Learning classification algorithms.
+
+---
+
+## 📊 Dataset Description
+
+- **Dataset Name:** Mobile_data.csv  
+- **Source:** Public ML classification dataset  
+- **Target Variable:** `Price` (0–3)
+
+### 📁 Features in the Dataset
+
+| Feature Name | Description |
+|-------------|-------------|
+| battery_power | Battery capacity (mAh) |
+| clock_speed | Processor speed (GHz) |
+| fc | Front camera megapixels |
+| int_memory | Internal storage (GB) |
+| m_dep | Mobile thickness (cm) |
+| mobile_wt | Mobile weight (grams) |
+| n_cores | Number of CPU cores |
+| pc | Primary camera megapixels |
+| px_height | Pixel resolution height |
+| px_width | Pixel resolution width |
+| ram | RAM size (MB) |
+| sc_h | Screen height (cm) |
+| sc_w | Screen width (cm) |
+| talk_time | Talk time (hours) |
+| Price | Price category (0–3) |
+
+---
+
+## 🧠 Machine Learning Models Used
+
+- ✅ **Logistic Regression**
+- 🌳 **Decision Tree Classifier**
+- 🌲 **Random Forest Classifier**
+
+Users can dynamically switch between models from the UI.
+
+---
+
+## 📈 Key Features
+
+- Interactive Streamlit Web App  
+- Real-time mobile price prediction  
+- Multiple ML model selection  
+- Probability confidence bar chart  
+- Clean and beginner-friendly UI  
+- Academic & industry project ready  
+
+---
+
+## 🛠️ Tech Stack Used
+
+| Category | Technology |
+|--------|-----------|
+| Programming Language | Python |
+| Frontend | Streamlit |
+| ML Library | Scikit-Learn |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib |
+| IDE | VS Code / PyCharm |
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/mobile-price-prediction.git
+cd mobile-price-prediction
+2️⃣ Install Dependencies
+pip install streamlit pandas numpy scikit-learn matplotlib
+3️⃣ Run the Application
+streamlit run app.py
+📁 Ensure Mobile_data.csv is present in the same directory as app.py.
+
+📊 Output Preview
+Predicted Price Category
+
+Probability Distribution Chart
+
+Confidence Level of Prediction
+
+🎓 Academic Relevance
+Suitable for BE Mini Project / Major Project
+
+Demonstrates ML pipeline:
+Data Cleaning → Training → Prediction → Visualization
+
+Easy to explain in viva / project review
+
+🧪 Future Enhancements
+Model accuracy comparison dashboard
+
+Feature importance visualization
+
+Confusion matrix display
+
+Cloud deployment (Streamlit Cloud)
+
+Login-based dashboard
+
+👩‍💻 Author
+Geethanjali M
+B.E Student | Machine Learning Enthusiast
+
+📜 License
+This project is licensed under the MIT License.
+Feel free to use and modify for educational purposes.
+
