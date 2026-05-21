@@ -27,7 +27,7 @@ The system is built using **Python, Scikit-Learn, and Streamlit**, providing an 
 
 ## 🎯 Problem Statement
 
-Given various mobile specifications such as battery power, RAM, camera quality, screen size, and processor details, the goal is to **predict the mobile phone price range** accurately using Machine Learning classification algorithms.
+Given various mobile specifications such as battery power, RAM, camera quality, screen size, and processor details, the goal is to **predict the mobile phone price range** accurately using Machine Learning classification algorithms..
 
 ---
 
