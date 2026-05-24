@@ -21,7 +21,7 @@ The application classifies mobiles into four categories:
 - 💎 High Cost  
 - 👑 Very High Cost  
 
-The system is built using **Python, Scikit-Learn, and Streamlit**, providing an interactive interface for real-time predictions along with **probability confidence visualization**..
+The system is built using **Python, Scikit-Learn, and Streamlit**, providing an interactive interface for real-time predictions along with **probability confidence visualization**.
 
 ---
 
