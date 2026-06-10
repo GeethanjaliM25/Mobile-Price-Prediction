@@ -15,7 +15,7 @@
 ## 📌 Project Overview
 
 The **Mobile Price Prediction App** is a Machine Learning–based web application that predicts the **price category of a mobile phone** based on its hardware specifications.
-The application classifies mobiles into four categories: 
+The application classifies mobiles into four categories:  
 
 - 📉 Low Cost  
 - 💰 Medium Cost  
