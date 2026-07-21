@@ -1,4 +1,4 @@
-# 📱 Mobile Price Prediction using Machine Learning.             
+# 📱 Mobile Price Prediction using Machine Learning.    
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)
